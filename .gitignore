@@ -2,3 +2,6 @@ node_modules
 .expo
 .expo-shared
 *.log
+
+backend/.venv
+**/__pycache__/
